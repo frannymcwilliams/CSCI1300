@@ -1,0 +1,8 @@
+Bulls,soccer
+Goldon Lions,soccer
+Bears,baseball
+Buffs,baseball
+Kings,soccer
+Sharks,soccer
+Fire,soccer
+Tigers,baseball
